@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
