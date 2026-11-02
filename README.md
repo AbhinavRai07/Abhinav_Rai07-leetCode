@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2651-calculate-delayed-arrival-time](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -38,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2169-count-operations-to-obtain-zero) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
