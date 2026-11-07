@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/1952-three-divisors) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
