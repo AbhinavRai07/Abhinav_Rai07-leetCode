@@ -11,7 +11,6 @@ public:
             n=n/10;
         }
         int difference = product -sum;
-        cout<<difference;
         return difference;
     }
-    };
+};
