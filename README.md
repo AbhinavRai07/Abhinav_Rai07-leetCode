@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
