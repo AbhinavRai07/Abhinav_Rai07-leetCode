@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2651-calculate-delayed-arrival-time](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3360-stone-removal-game](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3360-stone-removal-game](https://github.com/AbhinavRai07/Abhinav_Rai07-leetCode/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
